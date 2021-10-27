@@ -1,4 +1,13 @@
 <?php
+/*
+Creator : Tien Pham
+Purpose : Display the items that match the category and limit
+Version : 1.0.0 
+*/
+
+
+
+
 //Try to catch error
 if($argc != 3 ) {
     exit("Please enter category and limit") ; 
