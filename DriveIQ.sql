@@ -1,3 +1,9 @@
+/*
+Creator : Tien Pham
+Purpose : Display tbroker base on the amount of their customer in order
+Version : 1.0.0 
+*/
+
 CREATE DATABASE record;
 USE record;
 
